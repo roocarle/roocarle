@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 <!--
-**roocarle/roocarle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Perfil-circ](https://github.com/user-attachments/assets/bdf04817-391c-4c1a-8843-6514452b34e4)
+- 🌱 I’m currently learning tools to become an front-end developer.
